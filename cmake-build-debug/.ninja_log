@@ -1,0 +1,6 @@
+# ninja log v5
+5	3485	7038238509412836	CMakeFiles/lab4.dir/main.cpp.obj	16e8b3afadb1c431
+22	1453	7037861646967487	CMakeFiles/lab4.dir/rectangle.cpp.obj	a44f5a6bf8807c73
+3486	3670	7038238511223227	lab4.exe	77da52db1263f75f
+20	1895	7038236536533583	CMakeFiles/lab4.dir/trapezoid.cpp.obj	39525ca1cc097d5d
+14	1899	7038236536564784	CMakeFiles/lab4.dir/rectangle/rectangle.cpp.obj	3f4347ac0231fa71
